@@ -18,8 +18,8 @@ const projects = [
     title: "Weather App",
     description: "Real-time weather application fetching data from OpenWeather API.",
     skills: ["React.js", "OpenWeather API", "CSS"],
-    repo: "https://github.com/Gaurav-singh9719/Weather-App/tree/main/weather-app",
-    live: "https://weather-app-live.netlify.app",
+    repo: "https://github.com/Gaurav-singh9719/Weather-App.git",
+    live: "https://temprature-webapplication.netlify.app/",
   },
   {
     title: "AI Powered Fitness Website",
