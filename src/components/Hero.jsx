@@ -81,7 +81,7 @@ export default function Hero() {
           </motion.a>
 
           <motion.a
-            href="https://drive.google.com/file/d/1yfx4IcEzUXyc979ARrWn-f2pq4q_Ji4P/view?usp=sharing"
+            href="https://drive.google.com/file/d/1IGiP_ZoCjjen9y49Tnn8kh4vX7qeQtUt/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-transparent border-2 border-[#00ffff] text-white px-6 py-3 rounded-lg font-semibold hover:bg-[#00ffff] hover:text-blue-900 transition"
@@ -90,7 +90,7 @@ export default function Hero() {
           </motion.a>
 
           <motion.a
-            href="/assets/Gaurav_CoverLetter.pdf"
+            href="#"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-transparent border-2 border-[#00ffff] text-white px-6 py-3 rounded-lg font-semibold hover:bg-[#00ffff] hover:text-blue-900 transition"
